@@ -73,25 +73,18 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
   * Desarrollo de un caso de uso, en el que el alumno debe poner en práctica lo visto en el máster
 
 ## Bibliografia
-  * Inteligencia artificial generativa con modelos de ChatGPT y OpenAI, de Valentina Alto (2023)
-  ** Este libro proporciona una introducción a la inteligencia artificial generativa (IAG) y a los grandes modelos de lenguaje (LLM), como ChatGPT y OpenAI. Comienza con una introducción al campo de la IAG y luego se centra en el funcionamiento interno de los LLM. El libro también incluye una guía para la creación de modelos de lenguaje propios.
+  * Inteligencia artificial generativa con modelos de ChatGPT y OpenAI, de Valentina Alto (2023): Este libro proporciona una introducción a la inteligencia artificial generativa (IAG) y a los grandes modelos de lenguaje (LLM), como ChatGPT y OpenAI. Comienza con una introducción al campo de la IAG y luego se centra en el funcionamiento interno de los LLM. El libro también incluye una guía para la creación de modelos de lenguaje propios.
 
-  * Deep Learning with Python, de François Chollet (2017)
-  ** Este libro es un excelente recurso para aprender sobre el aprendizaje profundo (deep learning), una rama de la IA que utiliza redes neuronales artificiales para aprender de los datos. El libro cubre una amplia gama de temas, incluyendo la teoría del aprendizaje profundo, la implementación de redes neuronales en Python y la aplicación de deep learning a una variedad de problemas.
+  * Deep Learning with Python, de François Chollet (2017): Este libro es un excelente recurso para aprender sobre el aprendizaje profundo (deep learning), una rama de la IA que utiliza redes neuronales artificiales para aprender de los datos. El libro cubre una amplia gama de temas, incluyendo la teoría del aprendizaje profundo, la implementación de redes neuronales en Python y la aplicación de deep learning a una variedad de problemas.
 
-  * Generative Deep Learning, de Ian Goodfellow, Yoshua Bengio y Aaron Courville (2016)
-  ** Este libro es una referencia completa para el aprendizaje generativo, una rama del aprendizaje profundo que se centra en la creación de nuevos datos a partir de datos existentes. El libro cubre una amplia gama de temas, incluyendo la teoría del aprendizaje generativo, la implementación de modelos generativos en Python y la aplicación del aprendizaje generativo a una variedad de problemas.
+  * Generative Deep Learning, de Ian Goodfellow, Yoshua Bengio y Aaron Courville (2016): Este libro es una referencia completa para el aprendizaje generativo, una rama del aprendizaje profundo que se centra en la creación de nuevos datos a partir de datos existentes. El libro cubre una amplia gama de temas, incluyendo la teoría del aprendizaje generativo, la implementación de modelos generativos en Python y la aplicación del aprendizaje generativo a una variedad de problemas.
 
-  * A Primer on Generative Adversarial Networks, de Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville y Yoshua Bengio (2014)
-  ** Este artículo proporciona una introducción a las redes neuronales generativas adversariales (GAN), un tipo de modelo generativo que ha tenido un gran éxito en una variedad de aplicaciones.
+  * A Primer on Generative Adversarial Networks, de Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville y Yoshua Bengio (2014): Este artículo proporciona una introducción a las redes neuronales generativas adversariales (GAN), un tipo de modelo generativo que ha tenido un gran éxito en una variedad de aplicaciones.
 
-  * Variational Autoencoders, de Diederik P. Kingma y Max Welling (2013)
-  ** Este artículo proporciona una introducción a los autoencoders variacionales (VAE), otro tipo de modelo generativo que se ha utilizado con éxito en una variedad de aplicaciones.
+  * Variational Autoencoders, de Diederik P. Kingma y Max Welling (2013): Este artículo proporciona una introducción a los autoencoders variacionales (VAE), otro tipo de modelo generativo que se ha utilizado con éxito en una variedad de aplicaciones.
 
-  * Image Synthesis with Generative Adversarial Networks, de Phillip Isola, Jun-Yan Zhu, Tinghui Zhou y Alexei A. Efros (2017)
-  ** Este artículo presenta un método para generar imágenes realistas a partir de datos de entrenamiento.
-
-
+  * Image Synthesis with Generative Adversarial Networks, de Phillip Isola, Jun-Yan Zhu, Tinghui Zhou y Alexei A. Efros (2017): Este artículo presenta un método para generar imágenes realistas a partir de datos de entrenamiento.
+   
   * TensorFlow es una biblioteca de aprendizaje automático de código abierto desarrollada por Google. TensorFlow incluye una amplia gama de herramientas y funciones para el aprendizaje generativo.
 
   * PyTorch es otra biblioteca de aprendizaje automático de código abierto. PyTorch es una buena opción para el aprendizaje generativo porque es flexible y fácil de usar.
