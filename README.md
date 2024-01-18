@@ -19,7 +19,7 @@ Al completar el curso, nuestros alumnos tendrán la capacidad de:
 Para realizar este curso, son necesarios conocimientos basicos del lenguaje de programación Python.
 
 # Horario: 
- Turno de fin de semana del 12 de enero al 17 de febrero de 2024:
+ Turno de fin de semana del 19 de enero al 24 de febrero de 2024:
  * Viernes de 16.30h a 21.30h, con un descanso de 30 minutos de 18:45 a 19:15.
  * Sábados de 09h a 14h, con un descanso de 30 minutos de 11:15 a 11:45.
 
@@ -31,7 +31,7 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
 # Requisitos de aprobación:
 * 75% (al menos 45 horas de 60) de asistencia a las clases en linea. Se registrará la asistencia a cada clase.
 * Completar y reportar las 60 horas de ejercicios enviados a lo largo del curso.
-* Entregar proyecto que se asignará el Sabado 17 de febrero (ultima clase presencial en aula virtual) y que debe ser enviado por email al profesor, antes de las 23:59 del Sabado 24 de febrero de 2024.
+* Entregar proyecto que se asignará el Sabado 24 de febrero (ultima clase presencial en aula virtual) y que debe ser enviado por email al profesor, antes de las 23:59 del Sabado 24 de febrero de 2024.
 
 # CONTENIDO
 ## MODULO I - INTRODUCCIÓN Y REPASO GENERAL DE CONCEPTOS
