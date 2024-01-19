@@ -41,7 +41,7 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
   * Preprocesamiento de Datos 
     * [Numpy](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/numpy.ipynb)
   * Exploración de Conjuntos de Datos
-    * [Pandas](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHONN/blob/main/MODULO_I/pandas.ipynb)
+    * [Pandas](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/pandas.ipynb)
   * Herramientas de Python para la Inteligencia Artificial Generativa
     * [Aprendizaje Automático](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Aprendizaje%20automatico/AprendizajeAutomatico.pdf)
       * [LAB 1](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Aprendizaje%20automatico/LAB1.ipynb)
