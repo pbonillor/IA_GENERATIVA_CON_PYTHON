@@ -1,7 +1,12 @@
 # IA GENERATIVA CON PYTHON
 
-[Bienvenida](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/BienvenidaMasterIAGenerativa.mp4)
-[Bienvenida en Ingles con https://app.rask.ai/](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/BienvenidaMasterIAGenerativa_translated.mp4)
+  * [Bienvenida]
+  <video controls autoplay>
+    <source src="BienvenidaMasterIAGenerativa.mp4" type="video/mp4">
+  </video>
+  * [Bienvenida en Ingles con https://app.rask.ai/](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/BienvenidaMasterIAGenerativa_translated.mp4)
+  * [Bienvenida en Koreano con https://app.rask.ai/](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/BienvenidaMasterIAGenerativa KO_translated.mp4)
+  * [Bienvenida con Avatar con ttps://app.heygen.com/](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/Bienvenida Master IA Generativa.mp4)
 
 Sin lugar a dudas, la captura y el procesamiento de datos se han convertido en elementos esenciales en el mundo actual. En un contexto donde la generación y el análisis de información son fundamentales, la inteligencia artificial se erige como una poderosa herramienta para aprovechar el potencial de los datos.
 
