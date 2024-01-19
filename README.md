@@ -54,7 +54,7 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
     
   Ejercicio Semana 1: En base al data set [titanic](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/titanic_train.csv). Responda las preguntas del siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLSd-hf2udSj9-9lEUbsu2SmsbNlCS9tn_qq3QpP8tjk4i-r5kQ/viewform) 
   
-## MODULO II - COMO FUNCIONAN LOS LARGE LANGUAGE MODELS (LLMs)
+## [MODULO II - COMO FUNCIONAN LOS LARGE LANGUAGE MODELS (LLMs)](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_II/LLMs.pdf)
   * Arquitectura y Funcionamiento de LLMs
   * Pre-entrenamiento y Afinamiento de Modelos
   * Generación de Texto y Lenguaje Natural
