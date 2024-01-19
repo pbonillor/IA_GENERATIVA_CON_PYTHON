@@ -37,17 +37,23 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
 ## MODULO I - INTRODUCCIÓN Y REPASO GENERAL DE CONCEPTOS
   * [Introducción a la Inteligencia Artificial Generativa](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Intro_IA_Gen.pdf)
   * [Repaso de Conceptos Básicos de Python](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/repasoPython.pdf)
-    * Python
+    * [Introducción a Python](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/python.ipynb)
   * Preprocesamiento de Datos 
-    * Numpy
+    * [Numpy](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/numpy.ipynb)
   * Exploración de Conjuntos de Datos
-    * Pandas
+    * [Pandas](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHONN/blob/main/MODULO_I/pandas.ipynb)
   * Herramientas de Python para la Inteligencia Artificial Generativa
-    * Aprendizaje Automático
-    * Aprendizaje Profundo
-    * Vectorización
-  * Ejercicio Semana 1
-
+    * [Aprendizaje Automático](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Aprendizaje%20automatico/AprendizajeAutomatico.pdf)
+      * [LAB 1](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Aprendizaje%20automatico/LAB1.ipynb)
+      * [LAB 1.2](https://colab.research.google.com/github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Aprendizaje%20automatico/LAB.1.2.ipynb)
+      * [Analisis de Sentimientos](https://colab.research.google.com/github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Aprendizaje%20automatico/SentimentAnalyses.ipynb)
+    * [Aprendizaje Profundo](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Aprendizaje%20profundo/DeepLearning.pdf)
+      * [Articulo IA Generativa](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Aprendizaje%20profundo/Attention%20is%20all%20you%20need.pdf)
+      * [LAB](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Aprendizaje%20profundo/Lab1_deeplearning.ipynb)
+    * [Vectorización](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Vectorizacion/Vectorizacion.pdf)
+      * [Word2Vec](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Vectorizacion/Word2Vec.ipynb)
+  
+  Ejercicio Semana 1: En base al data set [titanic](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/titanic_train.csv). Responda las preguntas del siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLSd-hf2udSj9-9lEUbsu2SmsbNlCS9tn_qq3QpP8tjk4i-r5kQ/viewform) 
   
 ## MODULO II - COMO FUNCIONAN LOS LARGE LANGUAGE MODELS (LLMs)
   * Arquitectura y Funcionamiento de LLMs
@@ -78,7 +84,7 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
   * Aplicaciones de IA Generativa en AWS
   * Proyectos y Prácticas en Plataformas de Nube para IA Generativa
 ## MODULO VI – PROYECTO FIN DE MÁSTER
-  * Desarrollo de un caso de uso, en el que el alumno debe poner en práctica lo visto en el máster
+  * Desarrollo de un caso de uso, en el que el alumno debe poner en práctica lo visto en el máster en base a lo descrito en https://github.com/pbonillor/gentext 
 
 ## Bibliografia
   * Inteligencia artificial generativa con modelos de ChatGPT y OpenAI, de Valentina Alto (2023): Este libro proporciona una introducción a la inteligencia artificial generativa (IAG) y a los grandes modelos de lenguaje (LLM), como ChatGPT y OpenAI. Comienza con una introducción al campo de la IAG y luego se centra en el funcionamiento interno de los LLM. El libro también incluye una guía para la creación de modelos de lenguaje propios.
