@@ -36,6 +36,7 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
 # CONTENIDO
 ## MODULO I - INTRODUCCIÓN Y REPASO GENERAL DE CONCEPTOS
   * [Introducción a la Inteligencia Artificial Generativa](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Intro_IA_Gen.pdf)
+  * [Cuestiones éticas](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Etica/Etica.pdf)
   * [Repaso de Conceptos Básicos de Python](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/repasoPython.pdf)
     * [Introducción a Python](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/python.ipynb)
   * Preprocesamiento de Datos 
