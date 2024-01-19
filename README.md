@@ -31,7 +31,7 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
 # Requisitos de aprobación:
 * 75% (al menos 45 horas de 60) de asistencia a las clases en linea. Se registrará la asistencia a cada clase.
 * Completar y reportar las 60 horas de ejercicios enviados a lo largo del curso.
-* Entregar proyecto que se asignará el Sabado 24 de febrero (ultima clase presencial en aula virtual) y que debe ser enviado por email al profesor, antes de las 23:59 del Sabado 24 de febrero de 2024.
+* Entregar proyecto que se asignará el Sabado 24 de febrero (ultima clase presencial en aula virtual) y que debe ser enviado por email al profesor, antes de las 23:59 del Sabado 2 de marzo de 2024.
 
 # CONTENIDO
 ## MODULO I - INTRODUCCIÓN Y REPASO GENERAL DE CONCEPTOS
