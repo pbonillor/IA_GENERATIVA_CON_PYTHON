@@ -35,12 +35,13 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
 
 # CONTENIDO
 ## MODULO I - INTRODUCCIÓN Y REPASO GENERAL DE CONCEPTOS
-  * Introducción a la Inteligencia Artificial Generativa
-  * Repaso de Conceptos Básicos de Python
+  * [Introducción a la Inteligencia Artificial Generativa](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Intro_IA_Gen.pdf)
+  * [Repaso de Conceptos Básicos de Python](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/repasoPython.pdf)
+  * Preprocesamiento de Datos 
   * Exploración de Conjuntos de Datos
-  * Preprocesamiento de Datos
   * Herramientas de Python para la Inteligencia Artificial Generativa
   * Ejercicios Prácticos
+  
 ## MODULO II - COMO FUNCIONAN LOS LARGE LANGUAGE MODELS (LLMs)
   * Arquitectura y Funcionamiento de LLMs
   * Pre-entrenamiento y Afinamiento de Modelos
