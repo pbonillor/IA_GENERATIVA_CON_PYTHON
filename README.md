@@ -1,5 +1,8 @@
 # IA GENERATIVA CON PYTHON
 
+[Bienvenida](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/BienvenidaMasterIAGenerativa.mp4)
+[Bienvenida en Ingles con https://app.rask.ai/](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/BienvenidaMasterIAGenerativa_translated.mp4)
+
 Sin lugar a dudas, la captura y el procesamiento de datos se han convertido en elementos esenciales en el mundo actual. En un contexto donde la generación y el análisis de información son fundamentales, la inteligencia artificial se erige como una poderosa herramienta para aprovechar el potencial de los datos.
 
 Nuestro curso de Inteligencia Artificial Generativa con Python está diseñado para proporcionarte las habilidades y conocimientos necesarios en el emocionante campo de la inteligencia artificial, específicamente centrado en la generación de contenido mediante algoritmos y técnicas avanzadas. Prepárate para explorar el fascinante mundo de la creación automática de contenido y descubrir cómo utilizar Python como tu aliado en esta emocionante travesía hacia la inteligencia artificial generativa.
