@@ -45,7 +45,7 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
   * Herramientas de Python para la Inteligencia Artificial Generativa
     * [Aprendizaje Automático](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Aprendizaje%20automatico/AprendizajeAutomatico.pdf)
       * [LAB 1](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Aprendizaje%20automatico/LAB1.ipynb)
-      * [LAB 1.2](https://colab.research.google.com/github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Aprendizaje%20automatico/LAB.1.2.ipynb)
+      * [LAB 1.2](https://colab.research.google.com/github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Aprendizaje%20automatico/LAB1_2.ipynb)
       * [Analisis de Sentimientos](https://colab.research.google.com/github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Aprendizaje%20automatico/SentimentAnalyses.ipynb)
     * [Aprendizaje Profundo](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Aprendizaje%20profundo/DeepLearning.pdf)
       * [Articulo IA Generativa](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Aprendizaje%20profundo/Attention%20is%20all%20you%20need.pdf)
