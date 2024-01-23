@@ -57,7 +57,13 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
       * [LAB](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Aprendizaje%20profundo/Lab1_deeplearning.ipynb)
     * [Vectorización](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/Vectorizacion/Vectorizacion.pdf)
     
-  Ejercicio Semana 1: En base al data set [titanic](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/titanic_train.csv). Responda las preguntas del siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLSd-hf2udSj9-9lEUbsu2SmsbNlCS9tn_qq3QpP8tjk4i-r5kQ/viewform) 
+  * Ejercicio Semana 1: En base al data set [titanic](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_I/titanic_train.csv). Responda las preguntas del siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLSd-hf2udSj9-9lEUbsu2SmsbNlCS9tn_qq3QpP8tjk4i-r5kQ/viewform) 
+  
+  * Videos Semana 1:
+    * [Clase 1, parte 1](https://drive.google.com/file/d/1X56NzFSkzRVJ0s6I_IeUrycDUmrcTrRT/view?usp=sharing)
+    * [Clase 1, parte 2](https://drive.google.com/file/d/17dp49ZY-Op41AqG3JyIviILkmNStOgEp/view?usp=sharing)
+    * [Clase 2, parte 1](https://drive.google.com/file/d/1cY33az8vQf5YICnjvOiDbFRYVAJ9jfhp/view?usp=sharing)
+    * [Clase 2, parte 2](https://drive.google.com/file/d/1Vlx8oqVWXD99e2NLtffB4XdYEOWxrcLb/view?usp=sharing)
   
 ## [MODULO II - COMO FUNCIONAN LOS LARGE LANGUAGE MODELS (LLMs)](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_II/LLMs.pdf)
   * Arquitectura y Funcionamiento de LLMs
