@@ -72,6 +72,10 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
   * Aplicaciones Prácticas de LLMs
   * Ética y Desafíos en el Uso de LLMs
   * Proyectos y Ejercicios Prácticos
+    * [LAB text generation](https://colab.research.google.com/github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_II/LLM_text_generation.ipynb)
+    * [LAB sumarization](https://colab.research.google.com/github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_II/LLM_summarization.ipynb)
+    * [LAB codellama](https://colab.research.google.com/github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_II/codellama.ipynb)
+    * [LAB t5](https://colab.research.google.com/github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_II/t5.ipynb)
 ## MODULO III - ARQUITECTURA DE UNA SOLUCION DE IA GENERATIVA
   * Diseño de Modelos Generativos
   * Selección de Conjuntos de Datos y Preprocesamiento
