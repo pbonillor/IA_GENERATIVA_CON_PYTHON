@@ -81,15 +81,26 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
   * Implementación de Algoritmos Generativos en Python
   * Evaluación y Optimización de Modelos
   * Integración de Modelos Generativos en Aplicaciones Prácticas
-  * Proyectos y Prácticas Avanzadas en IA Generativa RAG
+  * [Proyectos y Prácticas Avanzadas en IA Generativa RAG](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_III/RAG.pdf)
+    * [LangChain y LlamaIndex](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_III/RAG.ipynb)
+    * [LLAMA2 CROMADB](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_III/RAG_LLAMA2_CROMADB.ipynb)
+    * [LLama2 FAISS](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_III/RAG_LLama2_FAISS.ipynb)
+    * [Documentsload](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_III/RAG_documentsload.ipynb)
+    * [Web](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_III/RAG_web.ipynb)
 
-## MODULO IV - PROMPT ENGINEERING Y FINE TUNING
+## [MODULO IV - PROMPT ENGINEERING Y FINE TUNIN](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_IV/1.Prompt%20engineering/PromptEnineering_GenConfig.pdf)
   * Conceptos Fundamentales de Prompt Engineering
   * Estrategias de Generación de Prompts Efectivos
   * Proceso de Fine Tuning en Modelos Generativos
   * Optimización de Modelos con Fine Tuning
   * Aplicaciones Avanzadas de Prompt Engineering
   * Prácticas y Proyectos con Prompt Engineering y Fine Tuning
+    * [Prompting](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_IV/1.Prompt%20engineering/Prompting.ipynb)
+    * [Generative configuration Codellama](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_IV/2.Generative%20configuration/PE_Codellama.ipynb)
+    * [Generative configuration llama2](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_IV/2.Generative%20configuration/llama2.ipynb)
+    * [Generative configuration OpenAI](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_IV/2.Generative%20configuration/PE_OpenAI.ipynb)
+    * [Fine tuning](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_IV/3.Fine%20tuning/FineTune_Lora.ipynb)
+
 ## MODULO V - IA GENERATIVA CON AZURE OPEN AI, GOOGLE CLOUD PLATFORM Y AWS
   * Plataformas en la Nube para IA Generativa
   * Uso de Servicios de IA Generativa en Azure
