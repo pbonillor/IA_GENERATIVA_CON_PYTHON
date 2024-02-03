@@ -75,13 +75,14 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
     * [LAB sumarization](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_II/LLM_summarization.ipynb)
     * [LAB codellama](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_II/codellama.ipynb)
     * [LAB t5](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_II/t5.ipynb)
-## MODULO III - ARQUITECTURA DE UNA SOLUCION DE IA GENERATIVA
+## [MODULO III - ARQUITECTURA DE UNA SOLUCION DE IA GENERATIVA](https://www.popai.pro/share.html?shareKey=9ec12e37b1195f3736f4597d804fa0b3580cea970598d8b499f95d6a8e3c3644&utm_source=presentationsharepage)
   * Diseño de Modelos Generativos
   * Selección de Conjuntos de Datos y Preprocesamiento
   * Implementación de Algoritmos Generativos en Python
   * Evaluación y Optimización de Modelos
   * Integración de Modelos Generativos en Aplicaciones Prácticas
-  * Proyectos y Prácticas Avanzadas en IA Generativa
+  * Proyectos y Prácticas Avanzadas en IA Generativa RAG
+
 ## MODULO IV - PROMPT ENGINEERING Y FINE TUNING
   * Conceptos Fundamentales de Prompt Engineering
   * Estrategias de Generación de Prompts Efectivos
