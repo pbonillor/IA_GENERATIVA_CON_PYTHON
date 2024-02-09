@@ -75,6 +75,13 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
     * [LAB sumarization](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_II/LLM_summarization.ipynb)
     * [LAB codellama](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_II/codellama.ipynb)
     * [LAB t5](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_II/t5.ipynb)
+   
+  * Videos Semana 2:
+    * [Clase 3, parte 1](https://drive.google.com/file/d/1X56NzFSkzRVJ0s6I_IeUrycDUmrcTrRT/view?usp=sharing)
+    * [Clase 3, parte 2](https://drive.google.com/file/d/17dp49ZY-Op41AqG3JyIviILkmNStOgEp/view?usp=sharing)
+    * [Clase 4, parte 1](https://drive.google.com/file/d/1cY33az8vQf5YICnjvOiDbFRYVAJ9jfhp/view?usp=sharing)
+    * [Clase 4, parte 2](https://drive.google.com/file/d/1Vlx8oqVWXD99e2NLtffB4XdYEOWxrcLb/view?usp=sharing)
+
 ## [MODULO III - ARQUITECTURA DE UNA SOLUCION DE IA GENERATIVA](https://www.popai.pro/share.html?shareKey=9ec12e37b1195f3736f4597d804fa0b3580cea970598d8b499f95d6a8e3c3644&utm_source=presentationsharepage)
   * Diseño de Modelos Generativos
   * Selección de Conjuntos de Datos y Preprocesamiento
