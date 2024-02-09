@@ -82,7 +82,7 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
   * Evaluación y Optimización de Modelos
   * Integración de Modelos Generativos en Aplicaciones Prácticas
   * [Proyectos y Prácticas Avanzadas en IA Generativa RAG](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_III/RAG.pdf)
-    * [LangChain y LlamaIndex](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_III/RAG.ipynb)
+    * [LangChain y LlamaIndex](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_III/RAGL.ipynb)
     * [LLAMA2 CROMADB](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_III/RAG_LLAMA2_CROMADB.ipynb)
     * [LLama2 FAISS](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_III/RAG_LLama2_FAISS.ipynb)
     * [Documentsload](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_III/RAG_documentsload.ipynb)
