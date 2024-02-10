@@ -80,6 +80,8 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
     * [Clase 3, parte 1](https://drive.google.com/file/d/1hxdQpSJ7XtLjMH8kQhtOLHMzUx1zNH-o/view?usp=sharing)
     * [Clase 3, parte 2](https://drive.google.com/file/d/1eFhph3y4OG9ay5RYC-ExYJMTHvBsKgTq/view?usp=sharing)
 
+  * Ejercicio Semana 2: Después de culminar el modulo 3 FINE-TUNING A PRETAINES MODEL del curso NLP Course de huggingface https://huggingface.co/learn/nlp-course/chapter3/1?fw=pt relice el End-of-chapter quiz https://huggingface.co/learn/nlp-course/chapter3/6?fw=pt y envie los resultados a pbonillo@gmail.com
+
 ## [MODULO III - ARQUITECTURA DE UNA SOLUCION DE IA GENERATIVA](https://www.popai.pro/share.html?shareKey=9ec12e37b1195f3736f4597d804fa0b3580cea970598d8b499f95d6a8e3c3644&utm_source=presentationsharepage)
   * Diseño de Modelos Generativos
   * Selección de Conjuntos de Datos y Preprocesamiento
@@ -98,6 +100,8 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
     * [Clase 4, parte 2](https://drive.google.com/file/d/1Z6a4D5pO1qgC7xFWtqtOf6GZ6Lfv3nft/view?usp=sharing)
     * [Clase 5, parte 1](https://drive.google.com/file/d/1h7NT9ltyAT4KTzz_CuvksWdb4wuHlmFD/view?usp=sharing)
     * [Clase 5, parte 2](https://drive.google.com/file/d/1NMofiJBlbn0Ww3cWGV_vdxlJjLo73GLP/view?usp=sharing)
+
+  * Ejercicio Semana 3: En base a el ejercicio de LLAMA2 CROMADB, seleccione un archivo pdf correspondiente a la data propuesta para su tema de proyecto y ejecute nuevamente la notebook, luego descargue el archivo ipynb y envielo a pbonillo@gmail.com. Adicionalmente usted debe realizar un mapa mental o un mapa conceptual del **[vídeo](https://www.youtube.com/watch?v=hfIUstzHs9A)** de **Kate Soule** de **IBM**) y enviarlo a pbonillo@gmail.com
 
 ## [MODULO IV - PROMPT ENGINEERING Y FINE TUNIN](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_IV/1.Prompt%20engineering/PromptEnineering_GenConfig.pdf)
   * Conceptos Fundamentales de Prompt Engineering
