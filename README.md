@@ -77,10 +77,8 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
     * [LAB t5](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_II/t5.ipynb)
    
   * Videos Semana 2:
-    * [Clase 3, parte 1](https://drive.google.com/file/d/1X56NzFSkzRVJ0s6I_IeUrycDUmrcTrRT/view?usp=sharing)
-    * [Clase 3, parte 2](https://drive.google.com/file/d/17dp49ZY-Op41AqG3JyIviILkmNStOgEp/view?usp=sharing)
-    * [Clase 4, parte 1](https://drive.google.com/file/d/1cY33az8vQf5YICnjvOiDbFRYVAJ9jfhp/view?usp=sharing)
-    * [Clase 4, parte 2](https://drive.google.com/file/d/1Vlx8oqVWXD99e2NLtffB4XdYEOWxrcLb/view?usp=sharing)
+    * [Clase 3, parte 1](https://drive.google.com/file/d/1hxdQpSJ7XtLjMH8kQhtOLHMzUx1zNH-o/view?usp=sharing)
+    * [Clase 3, parte 2](https://drive.google.com/file/d/1eFhph3y4OG9ay5RYC-ExYJMTHvBsKgTq/view?usp=sharing)
 
 ## [MODULO III - ARQUITECTURA DE UNA SOLUCION DE IA GENERATIVA](https://www.popai.pro/share.html?shareKey=9ec12e37b1195f3736f4597d804fa0b3580cea970598d8b499f95d6a8e3c3644&utm_source=presentationsharepage)
   * Diseño de Modelos Generativos
@@ -95,6 +93,12 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
     * [Documentsload](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_III/RAG_documentsload.ipynb)
     * [Web](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_III/RAG_web.ipynb)
 
+  * Videos Semana 3:
+    * [Clase 4, parte 1](https://drive.google.com/file/d/1U_h9jMWzZosV90QY1IPdJHkueSaCZnse/view?usp=sharing)
+    * [Clase 4, parte 2](https://drive.google.com/file/d/1Z6a4D5pO1qgC7xFWtqtOf6GZ6Lfv3nft/view?usp=sharing)
+    * [Clase 5, parte 1](https://drive.google.com/file/d/1h7NT9ltyAT4KTzz_CuvksWdb4wuHlmFD/view?usp=sharing)
+    * [Clase 5, parte 2](https://drive.google.com/file/d/1NMofiJBlbn0Ww3cWGV_vdxlJjLo73GLP/view?usp=sharing)
+
 ## [MODULO IV - PROMPT ENGINEERING Y FINE TUNIN](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_IV/1.Prompt%20engineering/PromptEnineering_GenConfig.pdf)
   * Conceptos Fundamentales de Prompt Engineering
   * Estrategias de Generación de Prompts Efectivos
@@ -107,6 +111,13 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
     * [Generative configuration llama2](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_IV/2.Generative%20configuration/llama2.ipynb)
     * [Generative configuration OpenAI](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_IV/2.Generative%20configuration/PE_OpenAI.ipynb)
     * [Fine tuning](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_IV/3.Fine%20tuning/FineTune_Lora.ipynb)
+
+* Videos Semana 4:
+    * [Clase 6, parte 1](https://drive.google.com/file/d/1fE6L-a_Z_Mmhk2HJsgrxACpGax1TwdNm/view?usp=sharing)
+    * [Clase 6, parte 2](https://drive.google.com/file/d/1gpqcC7UCJoHuBTo7oxWEPmhQICBiiqop/view?usp=sharing)
+    * [Clase 7, parte 1]()
+    * [Clase 7, parte 2]()    
+
 
 ## MODULO V - IA GENERATIVA CON AZURE OPEN AI, GOOGLE CLOUD PLATFORM Y AWS
   * Plataformas en la Nube para IA Generativa
