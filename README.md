@@ -113,7 +113,6 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
     * [Prompting](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_IV/1.Prompt%20engineering/Prompting.ipynb)
     * [Generative configuration Codellama](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_IV/2.Generative%20configuration/PE_Codellama.ipynb)
     * [Generative configuration llama2](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_IV/2.Generative%20configuration/llama2.ipynb)
-    * [Generative configuration OpenAI](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_IV/2.Generative%20configuration/PE_OpenAI.ipynb)
     * [Fine tuning](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_IV/3.Fine%20tuning/FineTune_Lora.ipynb)
 
 * Videos Semana 4:
