@@ -118,8 +118,8 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
 * Videos Semana 4:
     * [Clase 6, parte 1](https://drive.google.com/file/d/1fE6L-a_Z_Mmhk2HJsgrxACpGax1TwdNm/view?usp=sharing)
     * [Clase 6, parte 2](https://drive.google.com/file/d/1gpqcC7UCJoHuBTo7oxWEPmhQICBiiqop/view?usp=sharing)
-    * [Clase 7, parte 1]()
-    * [Clase 7, parte 2]()    
+    * [Clase 7, parte 1](https://drive.google.com/file/d/1HZjawy_c3xK0oVyZpjo8g2Y764bxO38b/view?usp=sharing)
+    * [Clase 7, parte 2](https://drive.google.com/file/d/12AzcgsmNNYiiJK7xnv3zO5E00AHD56L1/view?usp=sharing)    
 
 
 ## MODULO V - IA GENERATIVA CON AZURE OPEN AI, GOOGLE CLOUD PLATFORM Y AWS
