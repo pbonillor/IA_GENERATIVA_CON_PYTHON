@@ -124,7 +124,7 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
 
 ## MODULO V - IA GENERATIVA CON AZURE OPEN AI, GOOGLE CLOUD PLATFORM Y AWS
   * Plataformas en la Nube para IA Generativa
-  * Uso de Servicios de IA Generativa en Azure
+  * [Uso de Servicios de IA Generativa en Azure]((https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_V/Azure.pdf))
   * Implementación de Modelos con OpenAI
   * Desarrollo de Soluciones en Google Cloud Platform
   * Aplicaciones de IA Generativa en AWS
