@@ -129,8 +129,25 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
   * Desarrollo de Soluciones en Google Cloud Platform
   * Aplicaciones de IA Generativa en AWS
   * Proyectos y Prácticas en Plataformas de Nube para IA Generativa
+
+* Videos Semana 5:
+    * [Clase 8, parte 1]()
+    * [Clase 8, parte 2]()
+    * [Clase 9, parte 1]()
+    * [Clase 9, parte 2]()  
+
+
 ## MODULO VI – PROYECTO FIN DE MÁSTER
   * Desarrollo de un caso de uso, en el que el alumno debe poner en práctica lo visto en el máster en base a lo descrito en https://github.com/pbonillor/gentext 
+
+  * Videos Semana 6:
+    * [Clase 10, parte 1]()
+    * [Clase 10, parte 2]()
+    * [Clase 11, parte 1]()
+    * [Clase 11, parte 2]()  
+    * [Clase 12, parte 1]()
+    * [Clase 12, parte 2]()  
+
 
 ## Bibliografia
   * Inteligencia artificial generativa con modelos de ChatGPT y OpenAI, de Valentina Alto (2023): Este libro proporciona una introducción a la inteligencia artificial generativa (IAG) y a los grandes modelos de lenguaje (LLM), como ChatGPT y OpenAI. Comienza con una introducción al campo de la IAG y luego se centra en el funcionamiento interno de los LLM. El libro también incluye una guía para la creación de modelos de lenguaje propios.
