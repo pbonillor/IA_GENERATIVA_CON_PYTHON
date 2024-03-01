@@ -115,36 +115,50 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
     * [Generative configuration llama2](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_IV/2.Generative%20configuration/llama2.ipynb)
     * [Fine tuning](https://colab.research.google.com/github/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_IV/3.Fine%20tuning/FineTune_Lora.ipynb)
 
+* Ejercicio Semana 4: En base a el ejercicio de Prompting y Fine tuning , traduzcalos a español y envialeos a pbonillo@gmail.com. 
+  
 * Videos Semana 4:
     * [Clase 6, parte 1](https://drive.google.com/file/d/1fE6L-a_Z_Mmhk2HJsgrxACpGax1TwdNm/view?usp=sharing)
     * [Clase 6, parte 2](https://drive.google.com/file/d/1gpqcC7UCJoHuBTo7oxWEPmhQICBiiqop/view?usp=sharing)
     * [Clase 7, parte 1](https://drive.google.com/file/d/1HZjawy_c3xK0oVyZpjo8g2Y764bxO38b/view?usp=sharing)
-    * [Clase 7, parte 2](https://drive.google.com/file/d/12AzcgsmNNYiiJK7xnv3zO5E00AHD56L1/view?usp=sharing)    
-
-
+    * [Clase 7, parte 2](https://drive.google.com/file/d/12AzcgsmNNYiiJK7xnv3zO5E00AHD56L1/view?usp=sharing)  
+    
 ## MODULO V - IA GENERATIVA CON AZURE OPEN AI, GOOGLE CLOUD PLATFORM Y AWS
   * Plataformas en la Nube para IA Generativa
-  * [Uso de Servicios de IA Generativa en Azure]((https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_V/Azure.pdf))
-  * Implementación de Modelos con OpenAI
-  * Desarrollo de Soluciones en Google Cloud Platform
-  * Aplicaciones de IA Generativa en AWS
-  * Proyectos y Prácticas en Plataformas de Nube para IA Generativa
+  * [Uso de Servicios de IA Generativa en Azure](https://github.com/pbonillor/IA_GENERATIVA_CON_PYTHON/blob/main/MODULO_V/Azure.pdf))
+  * [Implementación de Modelos con OpenAI](https://openai.com/docs/)
+    * https://openai.com/dall-e-2/
+    * https://openai.com/blog/chatgpt/
+    * https://openai.com/blog/whisper/
+    * https://openai.com/blog/jukebox/
+    * https://forum.openai.com/
+    * https://github.com/openai
+  * [Desarrollo de Soluciones en Google Cloud Platform](https://cloud.google.com/ai/generative-ai)
+    * https://ai.googleblog.com/
+    * https://arxiv.org/abs/2305.04426
+    *  https://arxiv.org/abs/2204.02311
+  * [Aplicaciones de IA Generativa en AWS](https://aws.amazon.com/es/generative-ai/)
+      * Ejemplos de aplicaciones IA Generativa en AWS:
+         * [Amazon Bedrock:](https://aws.amazon.com/bedrock/)
+         * [Amazon SageMaker:](https://aws.amazon.com/sagemaker/)
+         * [Amazon CodeWhisperer:](https://aws.amazon.com/codewhisperer/)
+         * [PartyRock:](https://aws.amazon.com/about-aws/whats-new/2023/11/partyrock-amazon-bedrock-playground/)
+         * [Amazon Q:](https://aws.amazon.com/q/)
 
 * Videos Semana 5:
-    * [Clase 8, parte 1]()
-    * [Clase 8, parte 2]()
-    * [Clase 9, parte 1]()
-    * [Clase 9, parte 2]()  
+    * [Clase 8, parte 1] https://drive.google.com/file/d/1u66OBIO7QtUhxRrz_wc0TXaCMr4RZDWq/view?usp=sharing
+    * [Clase 8, parte 2] https://drive.google.com/file/d/1ZPBiAyqdo6JbBn3pSbfDF6wcxSV1qSt3/view?usp=sharing
+    * [Clase 9, parte 1] https://drive.google.com/file/d/1WIjjFI7ctfyAUNqtSs1RcOBRVjPfPqZa/view?usp=sharing
+    * [Clase 9, parte 2] https://drive.google.com/file/d/1lpMW_JPcB4Pl9I2CD-zmsWm6vaR7aCgn/view?usp=sharing
 
 
 ## MODULO VI – PROYECTO FIN DE MÁSTER
   * Desarrollo de un caso de uso, en el que el alumno debe poner en práctica lo visto en el máster en base a lo descrito en https://github.com/pbonillor/gentext 
 
   * Videos Semana 6:
-    * [Clase 10, parte 1]()
-    * [Clase 10, parte 2]()
-    * [Clase 11, parte 1]()
-    * [Clase 11, parte 2]()  
+    * [Clase 10](https://drive.google.com/file/d/1chKYyq9Cu6LcpSB3n3ORCMaDOOPFCwE-/view?usp=sharing)
+    * [Clase 11, parte 1](https://drive.google.com/file/d/1jTZ8hFl5RNQTjO68oW-auUdWMfo-1Lsc/view?usp=sharing)
+    * [Clase 11, parte 2](https://drive.google.com/file/d/1LwDrP_JXjyWR6RM5z68IeBpZMBUqCigt/view?usp=sharing)   
     * [Clase 12, parte 1]()
     * [Clase 12, parte 2]()  
 
