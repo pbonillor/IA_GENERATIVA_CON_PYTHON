@@ -162,6 +162,70 @@ Para realizar este curso, son necesarios conocimientos basicos del lenguaje de p
     * [Clase 12, parte 1]()
     * [Clase 12, parte 2]()  
 
+## EJERCICIO FINAL
+
+Objetivo: Desarrollar un modelo de IA Generativa que pueda escribir poemas originales en español utilizando diferentes estilos y temáticas.
+
+Requisitos:
+  Python 3.8 o superior
+  TensorFlow o PyTorch
+  Hugging Face Transformers
+  Un conjunto de datos de poemas en español
+
+Pasos:
+
+  Preprocesamiento del conjunto de datos:
+
+  Limpiar el texto y eliminar las impurezas.
+  Tokenizar el texto y convertirlo en un formato adecuado para el modelo.
+  Dividir el conjunto de datos en entrenamiento, validación y prueba.
+  Entrenar el modelo:
+
+  Elegir un modelo de IA Generativa adecuado, como GPT-2 o BART.
+  Entrenar el modelo utilizando el conjunto de datos de entrenamiento.
+  Evaluar el rendimiento del modelo en los conjuntos de datos de validación y prueba.
+  Desarrollar la interfaz:
+
+  Diseñar una interfaz web o de escritorio que permita al usuario:
+  Seleccionar el estilo del poema (por ejemplo, soneto, haiku, verso libre).
+  Indicar la temática del poema (por ejemplo, amor, naturaleza, nostalgia).
+  Introducir palabras clave o versos iniciales como inspiración.
+  Generar el poema.
+  Probar y mejorar el modelo:
+
+  Probar el modelo con diferentes usuarios y obtener comentarios.
+  Mejorar el modelo y la interfaz en base a los comentarios.
+
+Recursos adicionales:
+
+  Hugging Face Transformers: https://huggingface.co/transformers/
+  TensorFlow: https://www.tensorflow.org/
+  PyTorch: https://pytorch.org/
+  Ejemplos de generación de poemas con IA Generativa: [se quitó una URL no válida]
+
+Evaluación:
+
+  El ejercicio se evaluará en base a los siguientes criterios:
+
+  Originalidad de los poemas: Los poemas generados por el modelo deben ser originales y no plagios de obras existentes.
+  Calidad poética: Los poemas deben tener un buen ritmo, métrica y rima.
+  Creatividad del modelo: El modelo debe ser capaz de generar poemas con diferentes estilos y temáticas.
+  Facilidad de uso de la interfaz: La interfaz debe ser fácil de usar y entender.
+
+Recomendaciones:
+
+  Utilizar un conjunto de datos de poemas de alta calidad que incluya diferentes estilos y temáticas.
+  Experimentar con diferentes modelos y parámetros.
+  Probar el modelo con diferentes usuarios y obtener comentarios.
+  No tengas miedo de ser creativo y explorar diferentes posibilidades.
+  Este ejercicio te permitirá poner en práctica los conocimientos adquiridos en el curso de IA Generativa con Python y desarrollar un modelo que pueda ser utilizado para crear poemas originales e inspiradores.
+
+Bonus:
+
+  Puedes integrar tu modelo con herramientas de generación de audio para que los poemas puedan ser recitados en voz alta.
+  Puedes crear una comunidad online donde los usuarios puedan compartir los poemas generados por el modelo.
+  ¡Diviértete y explora las posibilidades de la IA Generativa para la creación artística!
+
 
 ## Bibliografia
   * Inteligencia artificial generativa con modelos de ChatGPT y OpenAI, de Valentina Alto (2023): Este libro proporciona una introducción a la inteligencia artificial generativa (IAG) y a los grandes modelos de lenguaje (LLM), como ChatGPT y OpenAI. Comienza con una introducción al campo de la IAG y luego se centra en el funcionamiento interno de los LLM. El libro también incluye una guía para la creación de modelos de lenguaje propios.
